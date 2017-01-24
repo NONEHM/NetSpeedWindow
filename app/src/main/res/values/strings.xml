@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NetSpeedOfMine</string>
+    <string name="open_net_speed">打开悬浮窗</string>
+    <string name="close_net_speed">关闭悬浮窗</string>
+    <string name="show_upload_download">显示上行下行</string>
+    <string name="show_upload">显示上行</string>
+    <string name="show_download">显示下行</string>
+    <string name="permission_hint">请授予权限！</string>
+    <string name="service_description">网速悬浮窗后台服务</string>
+</resources>
